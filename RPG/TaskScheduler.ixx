@@ -1,7 +1,7 @@
-export module engine.scheduler;
-
 #include <chrono>
 #include <SDL.h>
+
+export module engine.scheduler;
 
 class RPG;
 

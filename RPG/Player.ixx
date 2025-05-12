@@ -1,7 +1,6 @@
-export module rpg.player;
-
 #include <SDL.h>
 
+export module rpg.player;
 
 import engine.sprite.dynamic;
 

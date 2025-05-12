@@ -1,7 +1,7 @@
-export module engine.sprite.base;
-
 #include <SDL.h>
 #include "TextureUtil.hpp"
+
+export module engine.sprite.base;
 
 class RPG;
 
